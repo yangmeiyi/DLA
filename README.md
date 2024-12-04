@@ -85,12 +85,7 @@ python3 auto_clean.py
 
 
 ### result
-<div align=center><img src="[https://github.com/yangmeiyi/Liver/blob/main/auc.png](https://github.com/yangmeiyi/DLA/blob/main/ISIC/images/auc.png)" width="300" height="300" /></div>
-<div align=center><img src="[https://github.com/yangmeiyi/Liver/blob/main/acc.png](https://github.com/yangmeiyi/DLA/blob/main/ISIC/images/acc.png)" width="300" height="300" /></div>
-<div align=center><img src="[https://github.com/yangmeiyi/Liver/blob/main/workflow.png](https://github.com/yangmeiyi/DLA/blob/main/ISIC/images/NA_frame.png)" width="300" height="300" /></div>
-<div align=center><img src="[https://github.com/yangmeiyi/Liver/blob/main/f1.png](https://github.com/yangmeiyi/DLA/blob/main/ISIC/images/f1.png)" width="300" height="300" /></div>
-<div align=center><img src="[https://github.com/yangmeiyi/Liver/blob/main/precision.png](https://github.com/yangmeiyi/DLA/blob/main/ISIC/images/precision.png)" width="300" height="300" /></div>
-<div align=center><img src="[https://github.com/yangmeiyi/Liver/blob/main/recall.png](https://github.com/yangmeiyi/DLA/blob/main/ISIC/images/recall.png)" width="300" height="300" /></div>
+<div align=center><img src="https://github.com/yangmeiyi/DLA/blob/main/ISIC/images/results.png" width="1000" height="500" /></div>
 
 
 
