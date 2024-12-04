@@ -85,6 +85,7 @@ python3 auto_clean.py
 
 
 ### result
+We extensively assessed the performance of various methods on the ISIC 2019 dataset, covering: (a) training set accuracy across increasing training rounds; (b) AUC on the testing set; (c) the ACC on the testing set; (d) F1 Score on the testing set; (e) Recall on the testing set; (f) Precision on the testing set. The horizontal axis denotes the number of epochs, while the vertical axis represents accuracy within the 0% to 100%. These charts illustrate the performance trends of different methods during training, offering crucial insights for a comprehensive understanding of their capabilities on the ISIC 2019 dataset.
 <div align=center><img src="https://github.com/yangmeiyi/DLA/blob/main/ISIC/images/results.png" width="1000" height="500" /></div>
 
 
