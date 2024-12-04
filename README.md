@@ -6,7 +6,7 @@ by Meiyi Yang
 ## Introduction
 Noisy and ambiguous data in uncertain samples lead to significant challenges during the training process. To reduce the impact of noise samples and improve the robustness of the model, we propose a dynamic learning algorithm incorporating both data detection and a dynamic learning strategy. This algorithm is intended to regulate the model's concentration on uncertain samples. This dynamic learning algorithm incorporates 'dynamic probability' and 'weight decay', facilitating the dynamic adjustment of sample weights across different training stages. Moreover, we introduce an auxiliary task to provide additional supervision signals, assisting the model in better understanding spatial structures and local features within images. Extensive experiments on diverse medical datasets, including clear cell renal cell carcinom clear cell renal cell carcinomaa (CCRCC), liver cancer (Liver), endometrial (EndoM), breast cancer (BreakHis), endoscopic images (Kvasir), and dermatoscopy diagnostic datasets (ISIC), highlight the effectiveness of the proposed method. We also evaluated its performance in lesion detection.
 
-<div align=center><img src="https://github.com/yangmeiyi/DLA/edit/main/ISIC/images/NA_frame.png" width="1000" height="500" /></div>
+<div align=center><img src="https://github.com/yangmeiyi/DLA/blob/main/ISIC/images/NA_frame.png" width="1000" height="500" /></div>
 
 
 
@@ -85,12 +85,12 @@ python3 auto_clean.py
 
 
 ### result
-<div align=center><img src="https://github.com/yangmeiyi/Liver/blob/main/workflow.png" width="1000" height="850" /></div>
-<div align=center><img src="https://github.com/yangmeiyi/Liver/blob/main/workflow.png" width="1000" height="850" /></div>
-<div align=center><img src="https://github.com/yangmeiyi/Liver/blob/main/workflow.png" width="1000" height="850" /></div>
-<div align=center><img src="https://github.com/yangmeiyi/Liver/blob/main/workflow.png" width="1000" height="850" /></div>
-<div align=center><img src="https://github.com/yangmeiyi/Liver/blob/main/workflow.png" width="1000" height="850" /></div>
-<div align=center><img src="https://github.com/yangmeiyi/Liver/blob/main/workflow.png" width="1000" height="850" /></div>
+<div align=center><img src="[https://github.com/yangmeiyi/Liver/blob/main/auc.png](https://github.com/yangmeiyi/DLA/blob/main/ISIC/images/auc.png)" width="300" height="300" /></div>
+<div align=center><img src="[https://github.com/yangmeiyi/Liver/blob/main/acc.png](https://github.com/yangmeiyi/DLA/blob/main/ISIC/images/acc.png)" width="300" height="300" /></div>
+<div align=center><img src="[https://github.com/yangmeiyi/Liver/blob/main/workflow.png](https://github.com/yangmeiyi/DLA/blob/main/ISIC/images/NA_frame.png)" width="300" height="300" /></div>
+<div align=center><img src="[https://github.com/yangmeiyi/Liver/blob/main/f1.png](https://github.com/yangmeiyi/DLA/blob/main/ISIC/images/f1.png)" width="300" height="300" /></div>
+<div align=center><img src="[https://github.com/yangmeiyi/Liver/blob/main/precision.png](https://github.com/yangmeiyi/DLA/blob/main/ISIC/images/precision.png)" width="300" height="300" /></div>
+<div align=center><img src="[https://github.com/yangmeiyi/Liver/blob/main/recall.png](https://github.com/yangmeiyi/DLA/blob/main/ISIC/images/recall.png)" width="300" height="300" /></div>
 
 
 
